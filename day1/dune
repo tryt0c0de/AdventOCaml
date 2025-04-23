@@ -1,0 +1,4 @@
+(executable
+ (name    list_distance)    ; dune will look for read_print.ml
+ (libraries core))        ; any libraries you need (e.g. core, base, etc.)
+
